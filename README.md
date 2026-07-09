@@ -11,13 +11,9 @@ AI Engineer | LLMs • Agentic AI • RAG | FastAPI • Python | Azure Cloud •
 <div align="center">
 
 🚀 I'm <b>Dilshad Ali</b>, a Computer Science graduate passionate about building production-ready LLM applications, intelligent automation, and scalable cloud solutions.
-
 ⚡ Currently working with <b>LLMs</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Agentic AI</b>, <b>FastAPI</b>, <b>Python</b>, <b>Microsoft Azure</b>, <b>Microsoft 365</b>, and <b>AWS</b>.
-
 🤝 Open to collaborations in AI Engineering, Backend Development, Cloud Computing, and Open Source projects.
-
 </div>
-
 <div align="center">
   <a href="mailto:dilshadyousuf941@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />

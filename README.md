@@ -135,22 +135,6 @@ AI Engineer | LLMs • Agentic AI • RAG | FastAPI • Python | Azure Cloud •
 </table>
 
 <br/>
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dilshad-Alee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshad-Alee&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad-Alee&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=20&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Thanks+for+visiting+my+profile!+🙌;Let's+build+something+amazing+together+🚀" />
 </div>
